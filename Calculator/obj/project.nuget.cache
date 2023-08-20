@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lQwYCRKIX5p+LdMBpIANydbY0xWvqFww+pjAL1H1wy46E4ZTKuUtBZF409WEk80B0ky75awulQj/NEyMKvp+hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sviat-pc\\source\\repos\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sviat-pc\\.nuget\\packages\\mathparser.org-mxparser\\5.2.1\\mathparser.org-mxparser.5.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
